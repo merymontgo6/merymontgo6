@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @merymontgo6!
+︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿
+
+_ . _ . _ . _ . _ . _ . _ Hi, I’m Mery! _ . _ . _ . _ . _ . _ . _ . _
+
+︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿
+
 - 🌱 I’m currently learning C# and MySQL :)
+- Hopefully soon jv c:
+
 - 📫 You to reach me throught Discord as merymontgo#6567
 
+- ⚡ Trying to keep consistency and achieve goals! ⚡
 "merymontgo is ✨ special ✨"
 
 --> Thank you GitHub!! <33
