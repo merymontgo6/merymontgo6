@@ -4,18 +4,15 @@ _ . _ . _ . _ . _ . _ . _ . _ . _ Hi, I’m Mery! _ . _ . _ . _ . _ . _ . _ . _ 
 
 ︵‿︵‿︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿︵
 
-- 🌱 I’m currently learning C# and MySQL :)
-- January --> css c:
+- 🌱 Currently learning C# and MySQL :)
+- January --> css :)
 - Hopefully soon jv !
-- 🗲 Repostories are now private 🗲
 
 - 📫 You can reach me throught Discord as merymontgo#6567
 
 - ⚡ Trying to keep consistency and achieve goals! ⚡
 
-"merymontgo is ✨ special ✨"
-
---> Thank you GitHub!! (づ˶•༝•˶)づ♡
+(づ˶•༝•˶)づ♡
 
 ︵‿︵‿︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿︵
 
