@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mery</h1>
 
+I’m a current student in my second year of Multiplatform Application Development, passionate about learning and eager to take on new challenges!
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merymontgo6" alt="merymontgo6" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
